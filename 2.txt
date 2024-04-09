@@ -1,2 +1,4 @@
 2.txt new file
-TA: lung
+
+TA: Solid tumor
+
